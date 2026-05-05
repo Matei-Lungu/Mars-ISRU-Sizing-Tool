@@ -28,7 +28,7 @@ The tool calculates the mass, power, and energy requirements of a Martian LOX/CH
  
 All equations, assumptions, and baseline values are documented in:
  
-> Lungu, M. (2026). *A Feasibility Study and Trade-off Analysis of In-Situ Resource Utilisation for Interplanetary Missions*. University of Manchester.
+> Lungu, M. (2026). *A Feasibility Study and Trade-off Analysis of In-Situ Resource Utilisation for Interplanetary Missions*. Unpublished BEng dissertation, Department of Mechanical and Aerospace Engineering, University of Manchester.
  
 The subsystem baseline masses are derived from Kleinhenz & Paz (2017) and scaled using a throughput ratio relative to the baseline mission of 30,000 kg propellant over 510 days.
  
